@@ -113,5 +113,5 @@ Use SQL environment ( MySQL Workbench, DBeaver, or CLI) and run the SQL file.
   Licensed under the MIT lincense.
 
 ## ** Disclaimer:**
-This project is provided **as is**, without any warranties or guarantees. The author assumes **no responsibility** for any issues, damages,or legal consequences arising from the use of this content. Users should consult legal professionals before implementing any contractual or security related clauses.  
+This project is provided **as is**, without any warranties or guarantees. The developer assumes **no responsibility** for any issues, damages,or legal consequences arising from the use of this content. Users should consult legal professionals before implementing.  
 
